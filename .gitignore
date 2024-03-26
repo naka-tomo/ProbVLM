@@ -3,3 +3,6 @@
 **.zip
 **.npy
 **.txt.gz
+**.pyc
+**/__pycache__/**
+
